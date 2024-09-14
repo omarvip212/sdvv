@@ -1,0 +1,4 @@
+python-telegram-bot==20.6
+requests==2.31.0
+pytube==15.0.0
+python-dotenv==1.0.0
